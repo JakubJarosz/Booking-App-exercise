@@ -65,6 +65,7 @@ const Widget = ({ type }) => {
           />
         ),
       };
+      break
     default:
       break;
   }
