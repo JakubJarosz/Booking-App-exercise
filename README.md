@@ -7,7 +7,7 @@ This project focuses on experimenting with different CSS approaches in React.
 
 ## 📸 Screenshot
 
-![App Screenshot](./screenshots/app.PNG)
+![Mainpage](app/screenshots/Capture.PNG)
 
 ---
 
@@ -15,6 +15,6 @@ This project focuses on experimenting with different CSS approaches in React.
 
 ```bash
 git clone https://github.com/yourusername/project-name.git
-cd project-name
+cd app
 npm install
 npm start
